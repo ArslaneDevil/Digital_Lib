@@ -51,6 +51,19 @@ Cette alternative vise à guider l'utilisateur dans le processus de dépannage d
     - L'application affiche les différentes options de personnalisation (langue, notifications, etc.).
     - L'utilisateur modifie ses préférences selon ses besoins.
     - L'application enregistre les modifications sur le serveur.
+  
+### Scénario d'Erreur et Alternative pour "Modification des préférences de compte":
+
+**Erreur d'Enregistrement des Modifications:**
+
+- **Description:** Après que l'utilisateur a modifié ses préférences de compte, l'application ne parvient pas à enregistrer les modifications sur le serveur.
+
+- **Alternative:**
+    - L'utilisateur vérifie sa connexion Internet pour s'assurer qu'il est toujours connecté.
+    - S'il n'y a pas de problème de connexion, l'utilisateur peut essayer de réenregistrer les modifications.
+    - Si le problème persiste, l'utilisateur peut accéder à la section d'assistance de l'application et signaler le problème au support technique, en fournissant des détails sur les préférences spécifiques qu'il a tenté de modifier.
+
+Cette alternative guide l'utilisateur à travers des étapes de dépannage simples et l'encourage à signaler le problème au support technique s'il ne peut pas résoudre le problème par lui-même.
 
 3. **Louer une œuvre protégée par des droits d'auteur**
 
@@ -68,6 +81,20 @@ Cette alternative vise à guider l'utilisateur dans le processus de dépannage d
     - L'application demande confirmation de la location.
     - L'utilisateur confirme la location.
     - L'application communique avec le serveur pour vérifier les droits et effectuer la transaction.
+
+### Scénario d'Erreur et Alternative pour "Louer une œuvre protégée par des droits d'auteur":
+
+**Échec de Confirmation de la Location:**
+
+- **Description:** Après avoir sélectionné l'option de location, l'application ne parvient pas à obtenir la confirmation de la location de l'utilisateur.
+
+- **Alternative:**
+    - L'utilisateur vérifie sa connexion Internet pour s'assurer qu'il est toujours connecté.
+    - Si la connexion est stable, l'utilisateur peut réessayer de confirmer la location.
+    - S'il persiste des problèmes, l'utilisateur peut choisir une autre œuvre à louer pour voir si le problème est spécifique à une œuvre.
+    - En dernier recours, l'utilisateur peut contacter le support technique et signaler le problème en fournissant des détails sur l'œuvre concernée.
+
+Cette alternative guide l'utilisateur à travers des étapes de dépannage simples et lui suggère des actions à prendre pour résoudre le problème, tout en lui offrant la possibilité de contacter le support technique si nécessaire.
 
 4. **Déposer une œuvre dans la bibliothèque publique**
 
