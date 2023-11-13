@@ -35,6 +35,8 @@ scenarios erreurs
     - Si le problème persiste, l'utilisateur peut signaler le problème au support technique en fournissant des détails sur l'œuvre recherchée et les étapes effectuées.
 
 Cette alternative vise à guider l'utilisateur dans le processus de dépannage de la recherche d'œuvre, en l'encourageant à vérifier ses paramètres de recherche et à signaler le problème au support technique s'il persiste.
+
+
 2. **Modification des préférences de compte**
 
     **Description:** L'utilisateur ajuste les paramètres et préférences de son compte au sein de l'application.
