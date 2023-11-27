@@ -1,11 +1,21 @@
 ->  **Scénario 1** : [Diagramme de classe](Scénario1_classe.md) - [Diagramme de séquence](Scenario1_sqn.md)
+
 ->  **Scénario 2** : [Diagramme de classe](Scénario2_classe.md) - [Diagramme de séquence](Scenario1_sqn.md)
+
 ->  **Scénario 3** : [Diagramme de classe](Scénario3_classe.md) - [Diagramme de séquence](Scenario1_sqn.md)
+
 ->  **Scénario 4** : [Diagramme de classe](Scénario4_classe.md) - [Diagramme de séquence](Scenario1_sqn.md)
+
 ->  **Scénario 5** : [Diagramme de classe](Scénario5_classe.md) - [Diagramme de séquence](Scenario1_sqn.md)
+
 ->  **Scénario 6** : [Diagramme de classe](Scénario6_classe.md) - [Diagramme de séquence](Scenario1_sqn.md)
+
 ->  **Scénario 7** : [Diagramme de classe](Scénario7_classe.md) - [Diagramme de séquence](Scenario1_sqn.md)
+
 ->  **Scénario 8** : [Diagramme de classe](Scénario8_classe.md) - [Diagramme de séquence](Scenario1_sqn.md)
+
 ->  **Scénario 9** : [Diagramme de classe](Scénario9_classe.md) - [Diagramme de séquence](Scenario1_sqn.md)
+
 ->  **Scénario 10** : [Diagramme de classe](Scénario10_classe.md) - [Diagramme de séquence](Scenario1_sqn.md)
+
 ->  **Scénario 11** : [Diagramme de classe](Scénario11_classe.md) - [Diagramme de séquence](Scenario1_sqn.md)
