@@ -1,4 +1,4 @@
-# Notion-s-Project
+# Digital Lib
 
 **Création d'une bibliothèque numérique décentralisée pour le partage d'œuvres variées.**
 
