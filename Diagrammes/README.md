@@ -1,4 +1,4 @@
-->  **Scénario 1** : [Diagramme de classe](Scénario1_classe.jpg) - [Diagramme de séquence](Scenario1_sqn.jpg)
+->  **Scénario 1** : [Diagramme de classe](scenario1_classe.jpg) - [Diagramme de séquence](Scenario1_sqn.jpg)
 
 ->  **Scénario 2** : [Diagramme de classe](Scénario2_classe.jpg) - [Diagramme de séquence](Scenario2_sqn.jpg)
 
