@@ -1,10 +1,10 @@
-->  **Scénario 1** : [Diagramme de classe](Scénario1_classe.md) - [Diagramme de séquence](Scenario1_sqn.md)
+->  **Scénario 1** : [Diagramme de classe](Scénario1_classe.jpg) - [Diagramme de séquence](Scenario1_sqn.jpg)
 
-->  **Scénario 2** : [Diagramme de classe](Scénario2_classe.md) - [Diagramme de séquence](Scenario2_sqn.md)
+->  **Scénario 2** : [Diagramme de classe](Scénario2_classe.jpg) - [Diagramme de séquence](Scenario2_sqn.jpg)
 
-->  **Scénario 3** : [Diagramme de classe](Scénario3_classe.md) - [Diagramme de séquence](Scenario3_sqn.md)
+->  **Scénario 3** : [Diagramme de classe](Scénario3_classe.md) - [Diagramme de séquence](Scenario3_sqn.jpg)
 
-->  **Scénario 4** : [Diagramme de classe](Scénario4_classe.md) - [Diagramme de séquence](Scenario4_sqn.md)
+->  **Scénario 4** : [Diagramme de classe](Scénario4_classe.md) - [Diagramme de séquence](Scenario4_sqn.jpg)
 
 ->  **Scénario 5** : [Diagramme de classe](Scénario5_classe.md) - [Diagramme de séquence](Scenario5_sqn.md)
 
