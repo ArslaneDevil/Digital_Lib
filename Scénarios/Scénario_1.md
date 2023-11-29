@@ -13,8 +13,12 @@
   - La page de sélection affiche la description de l'application et ses informations légales, notamment celles correspondant aux partages des œuvres et à leurs droits d'auteurs.
   - L'utilisateur sélectionne l'application et l'installe.
 
-**Scénario Alternatif :**
-  - L'utilisateur utilise le market store de son système d'exploitation plutôt que le navigateur.
+**Scénario Alternatif :** L'utilisateur utilise le market store de son système d'exploitation plutôt que le navigateur.
+
+  - L'utilisateur ouvre son market store de son système d'exploitation.
+  - L'utilisateur saisit le nom de l'application.
+  - La page de sélection affiche la description de l'application et ses informations légales, notamment celles correspondant aux partages des œuvres et à leurs droits d'auteurs.
+  - L'utilisateur sélectionne l'application et l'installe.
 
 **Données :**
    - Informations de l'application (nom, description, droits d'auteur).
