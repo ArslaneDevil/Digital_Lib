@@ -15,8 +15,10 @@
   - L'application affiche les résultats de la recherche.
   - L'utilisateur sélectionne une œuvre et explore les options associées (lecture, informations supplémentaires, etc.).
 
-  **Scénario Alternatif :**
-  - L'utilisateur explore d'autres fonctionnalités avant de rechercher une œuvre.
+  **Scénario Alternatif :** Exploration de Fonctionnalités Diverses
+
+  - L'utilisateur explore d'autres fonctionnalités de l'application avant de faire une recherche d'œuvre.
+  - Mentionner quelques exemples de ces fonctionnalités (comme les recommandations, les nouveautés, les catégories, etc.).
 
   **Données :**
   - Préférences de navigation de l'utilisateur.
