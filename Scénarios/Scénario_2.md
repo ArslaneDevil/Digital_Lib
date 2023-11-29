@@ -15,8 +15,10 @@
   -  L'application propose de créer un compte ne pouvant déposer ou louer des œuvres.
   - L'utilisateur choisit de se connecter via FranceConnect.
 
-**Scénario Alternatif :**
-  - L'utilisateur choisit de créer un nouvel identifiant.
+**Scénario Alternatif :** Choix de Créer un Nouvel Identifiant :
+  - L'utilisateur choisit de créer un nouvel identifiant plutôt que d'utiliser FranceConnect.
+  - Étapes détaillées pour la création d'un nouveau compte (saisie des informations, validation de l'email, etc.).
+ 
 
 **Données :**
   - Informations d'identification (nom, prénom, date de naissance).
