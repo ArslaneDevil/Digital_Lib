@@ -15,8 +15,12 @@
   - L'utilisateur fournit les informations requises.
   - L'application télécharge l'œuvre sur le serveur.
 
-   **Scénario Alternatif :**
-    - L'utilisateur choisit de ne pas fournir certaines informations supplémentaires facultatives.
+   **Scénario Alternatif :** Omission d'Informations Facultatives
+   - L'utilisateur, après avoir sélectionné l'œuvre à déposer, choisit de ne pas fournir certaines informations supplémentaires facultatives demandées par l'application.
+   - L'application permet à l'utilisateur de continuer le processus de dépôt même sans ces informations facultatives.
+   - Une description de la façon dont l'application gère les champs non remplis (par exemple, en affichant un message de confirmation ou en utilisant des informations par défaut).
+   - L'utilisateur finalise le dépôt de l'œuvre dans la bibliothèque publique.
+   - Détails sur les écrans ou messages de confirmation qui apparaissent après le dépôt réussi de l'œuvre.
 
   **Données :**
     - Informations sur l'œuvre déposée.
