@@ -2,7 +2,7 @@
 
   **Description :** L'utilisateur souhaite louer une œuvre spécifique qui est protégée par des droits d'auteur.
 
-  **Acteurs :** Utilisateur connecté, Serveur de l'application, Propriétaire des droits d'auteur.
+  **Acteurs :** Utilisateur connecté, Serveur de l'application, Propriétaire des droits d'auteur, Système de Paiement, Base de Données des Œuvres.
 
   **Précondition :** L'utilisateur est connecté et a accès à des œuvres protégées par des droits.
 
@@ -16,7 +16,8 @@
   - L'application communique avec le serveur pour vérifier les droits et effectuer la transaction.
 
 **Scénario Alternatif :**
-  - L'utilisateur souhaite consulter les conditions de location avant de rechercher une œuvre spécifique.
+  - Avant de rechercher une œuvre spécifique, l'utilisateur souhaite consulter les conditions générales de location.
+  - L'application fournit des informations sur les politiques de location, les frais, et les droits d'auteur.
 
 **Données :**
   - Informations sur la location de l'œuvre.
