@@ -22,6 +22,6 @@
    - L'utilisateur reçoit une confirmation que l'œuvre a été déposée, même avec des informations manquantes.
 
   **Données :**
-    - Informations sur l'œuvre déposée.
+   - Informations sur l'œuvre déposée.
 
   **État Final :** L'œuvre est déposée avec succès dans la bibliothèque publique de l'application.
