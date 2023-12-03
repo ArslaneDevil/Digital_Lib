@@ -2,7 +2,7 @@
 
   **Description :** L'utilisateur souhaite mettre à jour les droits d'auteur sur une œuvre qu'il a déposée précédemment.
 
-  **Acteurs :** Utilisateur connecté, Serveur de l'application.
+  **Acteurs :** Utilisateur connecté, Interface de Gestion des Droits d'Auteur, Serveur de l'application, Système de Gestion des Œuvres, Base de Données.
 
   **Précondition :** L'utilisateur a déjà déposé une œuvre.
 
@@ -16,7 +16,9 @@
   - L'application enregistre les modifications sur le serveur.
 
 **Scénario Alternatif :**
-  - L'utilisateur souhaite ajouter une licence spécifique aux droits d'auteur.
+  - L'utilisateur décide d'ajouter une licence spécifique aux droits d'auteur (par exemple, Creative Commons).
+  - L'interface propose différentes options de licences (par exemple, Creative Commons, licence privée).
+  - La nouvelle licence est enregistrée sur le serveur et mise à jour dans la base de données.
 
 **Données :**
   - Informations sur les droits d'auteur mis à jour.
