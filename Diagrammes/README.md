@@ -12,7 +12,7 @@
 
 ->  **Scénario 7** : [Diagramme de classe](scenario7_classe.jpg) - [Diagramme de séquence](scenario7_sqn.jpg)
 
-->  **Scénario 8** : [Diagramme de classe](scenario8_classe.jpg) - [Diagramme de séquence](scenario8_sqn.jpg)
+->  **Scénario 8** : [Diagramme de classe](scenario8_classe.jpg) - [Diagramme de séquence](scenario8_sqn.png)
 
 ->  **Scénario 9** : [Diagramme de classe](scenario9_classe.jpg) - [Diagramme de séquence](scenario9_sqn.jpg)
 
