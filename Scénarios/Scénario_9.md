@@ -2,23 +2,26 @@
 
   **Description :** L'utilisateur souhaite ajouter une licence spécifique aux droits d'auteur de son œuvre déposée.
 
-  **Acteurs :** Utilisateur connecté, Serveur de l'application.
+  **Acteurs :** Utilisateur connecté, Serveur de l'application, Interface de Gestion des Droits d'Auteur, Système de Gestion des Licences.
 
   **Précondition :** L'utilisateur a déjà déposé une œuvre.
 
   **Étapes :**
 
-  - L'utilisateur accède à la section de gestion des droits d'auteur.
-  - L'application affiche la liste des œuvres déposées par l'utilisateur.
-  - L'utilisateur sélectionne l'œuvre dont il souhaite mettre à jour les droits.
-  - L'application affiche les informations actuelles sur les droits d'auteur.
-  - L'utilisateur choisit d'ajouter une licence spécifique aux droits d'auteur.
-  - L'application guide l'utilisateur pour sélectionner le type de licence et fournir les détails associés.
-  - L'utilisateur enregistre les modifications.
-  - L'application met à jour les informations sur les droits d'auteur avec la nouvelle licence sur le serveur.
+  - L'utilisateur se connecte et accède à la section de gestion des droits d'auteur dans l'application.
+  - L'application affiche une liste des œuvres déposées par l'utilisateur, chacune avec des options pour la gestion des droits d'auteur.
+  - L'utilisateur choisit l'œuvre pour laquelle il souhaite mettre à jour les droits d'auteur.
+  - L'application affiche les informations actuelles sur les droits d'auteur de l'œuvre sélectionnée.
+  - L'utilisateur décide d'ajouter une licence spécifique aux droits d'auteur de l'œuvre.
+  - L'application présente différentes options de licences (par exemple, Creative Commons, licences propriétaires).
+  - L'utilisateur sélectionne le type de licence souhaité et fournit les détails nécessaires.
+  - Le système de gestion des licences guide l'utilisateur à travers le processus de sélection et de personnalisation de la licence.
+  - Une fois que l'utilisateur a terminé, il enregistre les modifications.
+  - L'application envoie les nouvelles informations sur les droits d'auteur au serveur pour mise à jour dans la base de données.
 
   **Scénario Alternatif :**
-  - L'utilisateur choisit de ne pas ajouter de licence spécifique.
+  - Après avoir consulté les informations actuelles, l'utilisateur décide de ne pas ajouter de nouvelle licence.
+  - L'application conserve les droits d'auteur existants sans modification.
 
   **Données :**
   - Informations sur les droits d'auteur mis à jour.
