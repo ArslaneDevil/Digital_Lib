@@ -133,121 +133,15 @@ contrepartie financière.
 ayant droits et qui imposent de respecter des règles strictes de mise à
 disposition.
 
-*Location d'une œuvre*
-
-Délai de deux semaines de location : Contrainte sur la durée
-d'utilisation d'une œuvre
-
-Œuvre passant dans le domaine public
-
-*Œuvre accessible gratuitement*
-
-Œuvre diffusée aux membres
-
-Membre accordant de l'espace disque au partage
-
-*Application*
-
-*Teste et validation de l\'espace disque*
-
-*Emprunter une œuvre libre de droits*
-
-*Œuvre Libre de droits* : synonyme de « *Œuvres du domaine public »*,
-
-Œuvre orpheline : œuvre sous droits mais dont on ne connaît pas l'auter
-
-Œuvre sous « creative common » : certaine permettent le partage d'autre
-non selon la licence.
-
-Louer une œuvre sous droits
-
-*Enrichir* la *bibliothèque*.
-
-Fichier -> Format json
-
-*Informations sur une œuvre*
-
-*Index*
-
-Index mis à jour - Mise à jour de l'index
-
-*Ajout d'une œuvre*
-
-Suppression d'une œuvre
-
-*Rubriques*
-
-*Répertoires*
-
-Fond\_commun
-
-Fichier chiffré
-
-*Clé*
-
-*Répertoire \"séquestre\"*
-
-*Fichiers chiffrés*
-
-*Index*
-
-*Accessible de façon directe*
-
-*Répertoire \"à modérer\" *
-
-*Soumise à modération*
-
-*Voire les œuvres soumises*
-
-*Données :*
-
-*Auteurs* : ,
-
-*éditeur* : ,
-
-*langue* : ,
-
-*pays d\'origine* : ,
-
-*date de publication* : ,
-
-*droits* : ,
-
-*catégorie de l\'œuvre* : ,
-
-*format du support* :
-
 *Statut de l\'œuvre* : Ensemble des informations permettant de savoir si
 l'œuvre est dans le domaine public ou non.
 
 *Fichier rejeté* : fichier dont le partage a été refusé par les
 bibliothécaires.
 
-*Œuvre modérée*
-
-*Range dans la bonne rubrique* :
-
-*Gère les droits d\'accès*
-
-*Domaine public*
-
-*Copie* :
-
-*Œuvre protégée* :
-
-3 fois plus de copies :
-
-*Licence d\'exploitation* :
-
-*Date de validité* :
-
 ### Glossaire technique et concepts introduits par les scénarios :
 
 Anonyme : Utilisateur non encore authentifié ou n'ayant pas de compte.
-
-Téléchargement de l'application :
-
-Installation de l'application :
 
 Utilisateur : Anonyme ou Membre ou Bibliothécaire utilisant
 l'application.
