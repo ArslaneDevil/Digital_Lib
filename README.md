@@ -84,18 +84,9 @@ Certaines œuvres appartiennent à plusieurs catégories en même temps.
 Glossaire
 ---------
 
-**1ère étape** identifier les concepts, mots clés et phrases clés et créer
-une entrée dans un tableau ;
+*Association* : Personne morale au sens loi 1901.
 
-**2ème étape** trouver une définitions pour chaque entrées créée ;
-
-**3ème étape** classer les entrées alphabétiquement.
-
-Exemple à l'étape deux nous avons :
-
-*Association* :Personne morale au sens loi 1901.
-
-*CultureDiffusion*:Nom de l'application.
+*Digital lib*: Nom de l'application.
 
 *Bibliothèque numérique* : Application informatique qui fonctionne
 métaphoriquement comme une bibliothèque/médiathèque physique.
