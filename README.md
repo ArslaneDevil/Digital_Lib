@@ -75,17 +75,7 @@ Article
 
 Livre : BD - Enfants - Romans - Livre technique - Education - Loisir - Culture - Sante - etc
 
-Musique :
-
-Classique
-
-Jazz/Funk/Soul
-
-Pop
-
-Metal
-
-etc
+Musique : Classique - Jazz/Funk/Soul - Pop - Metal - etc
 
 Vidéos : SF - Histoire - Série - Documentaire - etc
 
