@@ -86,7 +86,7 @@ Glossaire
 
 *Association* : Personne morale au sens loi 1901.
 
-*Digital lib*: Nom de l'application.
+*Digital lib* : Nom de l'application.
 
 *Bibliothèque numérique* : Application informatique qui fonctionne
 métaphoriquement comme une bibliothèque/médiathèque physique.
@@ -113,14 +113,14 @@ artistique .
 *Proposer à l\'emprunt* : Action des bibliothécaires permettant de
 partager les œuvres.
 
-*Œuvres du domaine public *: Création ou réalisation dont les droits
+*Œuvres du domaine public*: Création ou réalisation dont les droits
 moraux permettent leur usage par tous gratuitement généralement par ce
 que l'auteur est mort depuis plus de 70 ans.
 
 *Accessibles gratuitement* : L'accès à l'œuvre est permis au membre sans
 contrepartie financière.
 
-*Œuvres sous droits*: œuvres pour lesquelles ils existent encore des
+*Œuvres sous droits* : œuvres pour lesquelles ils existent encore des
 ayant droits et qui imposent de respecter des règles strictes de mise à
 disposition.
 
@@ -132,25 +132,25 @@ bibliothécaires.
 
 ### Glossaire technique et concepts introduits par les scénarios :
 
-Anonyme : Utilisateur non encore authentifié ou n'ayant pas de compte.
+*Anonyme* : Utilisateur non encore authentifié ou n'ayant pas de compte.
 
-Utilisateur : Anonyme ou Membre ou Bibliothécaire utilisant
+*Utilisateur* : Anonyme ou Membre ou Bibliothécaire utilisant
 l'application.
 
-Média : Support permettant d'exécuté l'application de la bibliothèque
+*Média* : Support permettant d'exécuté l'application de la bibliothèque
 décentralisée.
 
-Membre authentifié:Membre dont la connexion s'est faite avec
+*Membre authentifié* : Membre dont la connexion s'est faite avec
 FranceConnect.
 
-Numéro de transaction : Identification unique de toute opération
+*Numéro de transaction* : Identification unique de toute opération
 réalisée.
 
-Fichier journal local : Fichier contenant un historique de toutes les
+*Fichier journal local* : Fichier contenant un historique de toutes les
 opérations ayant été effectuées par le membre.
 
-Filtre : Permet de cacher des éléments d'une liste lorsque ces éléments
+*Filtre* : Permet de cacher des éléments d'une liste lorsque ces éléments
 ne sont pas voulus.
 
-Tri : Permet d'ordonner les éléments d'une liste selon les critères
+*Tri* : Permet d'ordonner les éléments d'une liste selon les critères
 souhaités.
