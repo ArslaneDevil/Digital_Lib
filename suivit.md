@@ -28,4 +28,56 @@
 ## Communication de l'Équipe
 **Plateforme Principale :** Discord
 
- 
+```plantuml
+@startuml
+
+' Define actors
+class Utilisateur {
+    - id: int
+    - nom: string
+    - preferences: Preferences
+    + modifierPreferences(preferences: Preferences): void
+}
+
+class Administrateur {
+    + id: int
+    + nom: string
+    + gererUtilisateur(utilisateur: Utilisateur): void
+    + gererServeur(serveur: Serveur): void
+}
+
+class Preferences {
+    - langue: string
+    - notifications: boolean
+    + obtenirLangue(): string
+    + definirLangue(langue: string): void
+    + obtenirNotifications(): boolean
+    + definirNotifications(notifications: boolean): void
+}
+
+class Application {
+    + afficherOptions(): void
+    + sauvegarderPreferences(utilisateur: Utilisateur): void
+}
+
+class Serveur {
+    + sauvegarderPreferences(utilisateur: Utilisateur): void
+    + deployerApplication(application: Application): void
+}
+
+class BaseDeDonnees {
+    + stockerPreferences(preferences: Preferences): void
+    + recupererPreferences(idUtilisateur: int): Preferences
+}
+
+' Define relationships
+Utilisateur "1" -- "1" Preferences : a >
+Application "1" -- "1..*" Utilisateur : utilise >
+Serveur "1" -- "1..*" Application : sert >
+Administrateur "1" -- "*" Serveur : gere >
+Administrateur "1" -- "*" Application : gere >
+Serveur "1" -- "1" BaseDeDonnees : utilise >
+BaseDeDonnees "1" -- "1..*" Preferences : stocke >
+
+@enduml
+ ```
