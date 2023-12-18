@@ -2,16 +2,19 @@
 
 **Création d'une bibliothèque numérique décentralisée pour le partage d'œuvres variées.**
 
-*L\'association* *CultureDiffusion* souhaite réaliser une *bibliothèque
-numérique* à *gestion décentralisée*.
+## Description du projet
 
-Le principe est de permettre à chaque *membre* de *numériser* les
+**L\'association *CultureDiffusion* souhaite réaliser une bibliothèque
+numérique à gestion décentralisée.**
+
+**Le principe est de permettre à chaque *membre* de *numériser* les
 *œuvres* et aux *bibliothécaires* de les *proposer à l\'emprunt* selon
-deux modalités :
+deux modalités :**
 
-Toutes les *œuvres du domaine public* sont *accessibles gratuitement*,
-toutes les *œuvres sous droits* sont proposées en *location* pour une
-période de *2 semaines*.
+**- Toutes les *œuvres du domaine public* sont *accessibles gratuitement.***
+
+**- Toutes les *œuvres sous droits* sont proposées en *location* pour une
+période de *2 semaines*.**
 
 Lorsqu\'une œuvre *passe dans le domaine public*, elle devient
 *accessible gratuitement* et *est diffusée aux membres* *ayant accordé*
