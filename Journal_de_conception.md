@@ -4,7 +4,6 @@
 ## Semaine 1
 
 ### Réalisations :
-- Rencontre initiale avec l'association CultureDiffusion pour finaliser les exigences.
 - Début de conception de l'architecture du système.
 - Création d'un glossaire technique et des concepts clés.
 
