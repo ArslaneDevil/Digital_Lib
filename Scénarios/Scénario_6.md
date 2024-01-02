@@ -24,3 +24,4 @@
 
 **État Final :** L'utilisateur a loué avec succès une œuvre protégée par des droits d'auteur.
 
+[**Diagramme de Classe**](../Diagramme/sc6_c.jpg) - [**Diagramme de Séquence**](../Diagramme/sc6_sq.jpg) 
