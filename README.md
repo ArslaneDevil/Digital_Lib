@@ -84,76 +84,181 @@ Vidéos : SF - Histoire - Série - Documentaire - etc
 
 Certaines œuvres appartiennent à plusieurs catégories en même temps.
 
-Glossaire
----------
+## Glossaire
 
-*Association* : Personne morale au sens loi 1901.
+1. **Association :** Personne morale au sens de la loi 1901, regroupant des membres partageant des intérêts communs, telle que CultureDiffusion.
 
-*Digital lib* : Nom de l'application.
+2. **CultureDiffusion :** Nom de l'application informatique développée par l'association pour la réalisation d'une bibliothèque numérique à gestion décentralisée.
 
-*Bibliothèque numérique* : Application informatique qui fonctionne
-métaphoriquement comme une bibliothèque/médiathèque physique.
+3. **Bibliothèque numérique :** Application informatique fonctionnant métaphoriquement comme une bibliothèque/médiathèque physique, permettant la gestion décentralisée d'œuvres numérisées.
 
-*Gestion décentralisée* : Les administrateurs ainsi que les
-bibliothécaires accèdes à l'application depuis des lieux et des moments
-différents, en plus après discussion avec le client, celui-ci veut que
-les œuvres numériques soient stockées sur les terminaux des membres et
-seulement sauvegardées sur un serveur du client ainsi il souhaite
-utiliser des protocoles de partage pair à pair et de contrôle de
-version.
+4. **Gestion décentralisée :** Mode de gestion où les administrateurs et les bibliothécaires accèdent à l'application depuis différents lieux et moments. Les œuvres sont stockées sur les terminaux des membres avec des protocoles de partage pair à pair et de contrôle de version.
 
-*Membre* : Toute personne ayant un compte sur l'application.
+5. **Membre :** Individu ayant un compte sur l'application CultureDiffusion, pouvant numériser, emprunter, louer, et proposer des œuvres.
 
-*Numériser* : Consiste à créer ne projection de l'œuvre dans un fichier,
-par exemple à scanner un livre.
+6. **Numériser :** Processus de création d'une version numérique d'une œuvre, tel que le scan d'un livre.
 
-*Œuvres* : Création ou réalisation humaine ayant généralement un intérêt
-artistique .
+7. **Œuvres :** Créations ou réalisations humaines ayant généralement un intérêt artistique, incluant des livres, articles, musiques, vidéos, etc.
 
-*Bibliothécaires* : Membre de l'application en charge de classer les
-œuvres et de vérifier leur nature.
+8. **Bibliothécaires :** Membres de l'application responsables du classement des œuvres, de la vérification des informations, et de la modération.
 
-*Proposer à l\'emprunt* : Action des bibliothécaires permettant de
-partager les œuvres.
+9. **Proposer à l'emprunt :** Action des bibliothécaires permettant de rendre une œuvre disponible à l'emprunt.
 
-*Œuvres du domaine public*: Création ou réalisation dont les droits
-moraux permettent leur usage par tous gratuitement généralement par ce
-que l'auteur est mort depuis plus de 70 ans.
+10. **Œuvres du domaine public :** Créations dont les droits moraux permettent leur usage gratuit, généralement parce que l'auteur est décédé depuis plus de 70 ans.
 
-*Accessibles gratuitement* : L'accès à l'œuvre est permis au membre sans
-contrepartie financière.
+11. **Fichier :** Conteneur numérique d'une œuvre, comprenant le contenu de l'œuvre.
 
-*Œuvres sous droits* : œuvres pour lesquelles ils existent encore des
-ayant droits et qui imposent de respecter des règles strictes de mise à
-disposition.
+12. **Format json :** Format de fichier utilisé pour stocker les informations structurées sur une œuvre.
 
-*Statut de l\'œuvre* : Ensemble des informations permettant de savoir si
-l'œuvre est dans le domaine public ou non.
+13. **Informations sur une œuvre :** Données telles que les auteurs, éditeur, langue, pays d'origine, date de publication, droits, catégorie de l'œuvre, format du support, etc.
 
-*Fichier rejeté* : fichier dont le partage a été refusé par les
-bibliothécaires.
+14. **Index :** Liste organisée des œuvres dans l'application, mise à jour à chaque ajout ou suppression d'œuvre.
 
-### Glossaire technique et concepts introduits par les scénarios :
+15. **Index mis à jour :** Processus de modification de l'index suite à l'ajout ou la suppression d'une œuvre.
 
-*Anonyme* : Utilisateur non encore authentifié ou n'ayant pas de compte.
+16. **Mise à jour de l'index :** Action de mettre à jour la liste des œuvres dans l'index.
 
-*Utilisateur* : Anonyme ou Membre ou Bibliothécaire utilisant
-l'application.
+17. **Ajout d'une œuvre :** Processus d'intégration d'une nouvelle œuvre dans l'application.
 
-*Média* : Support permettant d'exécuté l'application de la bibliothèque
-décentralisée.
+18. **Suppression d'une œuvre :** Processus de retrait d'une œuvre de l'application.
 
-*Membre authentifié* : Membre dont la connexion s'est faite avec
-FranceConnect.
+19. **Rubriques :** Catégories principales proposées sous forme de répertoires dans l'application.
 
-*Numéro de transaction* : Identification unique de toute opération
-réalisée.
+20. **Répertoires :** Organisations de stockage des œuvres, tels que "fond_commun," "emprunts," "séquestre," et "à modérer."
 
-*Fichier journal local* : Fichier contenant un historique de toutes les
-opérations ayant été effectuées par le membre.
+21. **Fond_commun :** Répertoire contenant une partie des œuvres libres de droits de l'association.
 
-*Filtre* : Permet de cacher des éléments d'une liste lorsque ces éléments
-ne sont pas voulus.
+22. **Fichier chiffré :** Œuvre sécurisée par un cryptage, empêchant un accès non autorisé.
 
-*Tri* : Permet d'ordonner les éléments d'une liste selon les critères
-souhaités.
+23. **Clé :** Code permettant de déchiffrer une œuvre chiffrée.
+
+24. **Répertoire "séquestre" :** Stockage sécurisé des œuvres sous droits gérées par l'association, avec fichiers chiffrés et un index non accessible directement.
+
+25. **Fichiers chiffrés :** Œuvres protégées par un chiffrement pour empêcher l'accès non autorisé.
+
+26. **Accessible de façon directe :** Caractéristique du répertoire "séquestre" où l'index n'est pas accessible directement.
+
+27. **Répertoire "à modérer" :** Espace dédié aux œuvres soumises par les membres, en attente de modération.
+
+28. **Soumise à modération :** Œuvre proposée par un membre, en attente d'approbation par les bibliothécaires.
+
+29. **Voir les œuvres soumises :** Action des bibliothécaires permettant de visualiser les propositions d'œuvres.
+
+30. **Données :** Informations complémentaires sur une œuvre, telles que les auteurs, éditeur, langue, etc.
+
+31. **Auteurs :** Personnes ayant créé l'œuvre, pouvant être plusieurs.
+
+32. **Éditeur :** Entité responsable de la publication de l'œuvre.
+
+33. **Langue :** Langue dans laquelle l'œuvre a été créée ou traduite.
+
+34. **Pays d'origine :** Pays associé à la création de l'œuvre.
+
+35. **Date de publication :** Moment où l'œuvre a été rendue publique.
+
+36. **Droits :** Ensemble des permissions et restrictions associées à une œuvre.
+
+37. **Catégorie de l'œuvre :** Classification de l'œuvre par type, comme Livre, Musique, Vidéo, etc.
+
+38. **Format du support :** Nature du support physique ou numérique de l'œuvre.
+
+39. **Statut de l'œuvre :** Ensemble d'informations déterminant si une œuvre est dans le domaine public, protégée, ou rejetée.
+
+40. **Fichier rejeté :** Fichier dont le partage a été refusé par les bibliothécaires après modération.
+
+41. **Œuvre modérée :** Œuvre soumise à modération par les bibliothécaires.
+
+42. **Range dans la bonne rubrique :** Processus d'organisation de l'œuvre dans la catégorie appropriée après modération.
+
+43. **Gère les droits d'accès :** Attribution des droits d'accès en fonction du statut de l'œuvre après modération.
+
+44. **Domaine public :** Statut indiquant que l'œuvre est libre de droits et peut être copiée par autant de membres que nécessaire.
+
+45. **Copie :** Duplication d'une œuvre libre de droits autorisée sans restriction.
+
+46. **Œuvre modérée :** Œuvre soumise à modération par les bibliothécaires.
+
+47. **Range dans la bonne rubrique :** Processus d'organisation de l'œuvre dans la catégorie appropriée après modération.
+
+48. **Gère les droits d'accès :** Attribution des droits d'accès en fonction du statut de l'œuvre après modération.
+
+49. **Domaine public :** Statut indiquant que l'œuvre est libre de droits et peut être copiée par autant de membres que nécessaire.
+
+50. **Copie :** Duplication d'une œuvre libre de droits autorisée sans restriction.
+
+51. **Œuvre protégée :** Statut indiquant que l'œuvre est soumise à des droits, limitant le nombre de copies et nécessitant un chiffrement individuel.
+
+52. **3 fois plus de copies :** Limite de trois duplications pour une œuvre protégée, en fonction du nombre de licences d'exploitation.
+
+53. **Licence d'exploitation :** Autorisation légale d'utiliser une œuvre soumise à des droits, déterminant le nombre de copies autorisées.
+
+54. **Date de validité :** Période pendant laquelle une œuvre protégée peut être utilisée, définie par une clé de chiffrement.
+
+55. **À la fin de la validité d'un emprunt :** Processus de suppression automatique d'une œuvre du répertoire du membre à la fin de la période de location.
+
+56. **Œuvres classées selon les types et sous-types :** Organisation des œuvres en catégories et sous-catégories spécifiques.
+
+57. **Article :** Type d'œuvre comprenant des écrits courts et informatifs.
+
+58. **Livre :** Catégorie d'œuvres comprenant divers sous-types tels que BD, Enfants, Romans, Livre technique, Éducation, Loisir, Culture, Santé, etc.
+
+59. **BD :** Sous-type de Livre, regroupant les bandes dessinées.
+
+60. **Enfants :** Sous-type de Livre, spécifique aux œuvres destinées à un jeune public.
+
+61. **Romans :** Sous-type de Livre, englobant les œuvres de fiction narratives.
+
+62. **Livre technique :** Sous-type de Livre, incluant des ouvrages spécialisés.
+
+63. **Éducation :** Sous-type de Livre, comprenant des œuvres pédagogiques.
+
+64. **Loisir :** Sous-type de Livre, regroupant des œuvres de divertissement.
+
+65. **Culture :** Sous-type de Livre, englobant des œuvres liées à la culture générale.
+
+66. **Santé :** Sous-type de Livre, incluant des ouvrages sur la santé.
+
+67. **Musique :** Catégorie d'œuvres regroupant des sous-types tels que Classique, Jazz/Funk/Soul, Pop, Metal, etc.
+
+68. **Classique :** Sous-type de Musique, englobant des œuvres musicales classiques.
+
+69. **Jazz/Funk/Soul :** Sous-type de Musique, regroupant des œuvres de jazz, funk et soul.
+
+70. **Pop :** Sous-type de Musique, incluant des œuvres musicales populaires.
+
+71. **Metal :** Sous-type de Musique, spécifique aux œuvres musicales metal.
+
+72. **Vidéos :** Catégorie d'œuvres incluant des sous-types tels que SF, Histoire, Série, Documentaire, etc.
+
+73. **SF :** Sous-type de Vidéos, regroupant des œuvres de science-fiction.
+
+74. **Histoire :** Sous-type de Vidéos, comprenant des œuvres historiques.
+
+75. **Série :** Sous-type de Vidéos, englobant des séries télévisées.
+
+76. **Documentaire :** Sous-type de Vidéos, spécifique aux œuvres documentaires.
+
+77. **Certaines œuvres appartiennent à plusieurs catégories en même temps :** Possibilité pour une œuvre d'être classée dans plusieurs catégories ou sous-catégories en fonction de ses caractéristiques.
+
+## Glossaire technique et concepts introduits par les scénarios :
+
+78. **Anonyme :** Utilisateur non encore authentifié ou n'ayant pas de compte sur l'application CultureDiffusion.
+
+79. **Téléchargement de l'application :** Processus d'obtention de l'application CultureDiffusion sur le terminal de l'utilisateur.
+
+80. **Installation de l'application :** Processus d'implémentation et de configuration de l'application CultureDiffusion sur le terminal de l'utilisateur.
+
+81. **Utilisateur :** Catégorie regroupant les rôles d'Anonyme, Membre, et Bibliothécaire utilisant l'application.
+
+82. **Média :** Support permettant d'exécuter l'application de la bibliothèque décentralisée, tel qu'un smartphone, une tablette, ou un ordinateur.
+
+83. **Membre authentifié :** Membre dont la connexion s'est faite avec FranceConnect, un système d'authentification français.
+
+84. **Numéro de transaction :** Identification unique associée à chaque opération réalisée dans l'application CultureDiffusion.
+
+85. **Fichier journal local :** Fichier contenant un historique de toutes les opérations effectuées par le membre, stocké localement.
+
+86. **Filtre :** Mécanisme permettant de masquer des éléments indésirables dans une liste.
+
+87. **Tri :** Processus d'ordonnancement des éléments d'une liste selon des critères spécifiques.
+
