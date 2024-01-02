@@ -4,85 +4,36 @@
 
 ## Description du projet
 
-**L\'association *CultureDiffusion* souhaite réaliser une bibliothèque
-numérique à gestion décentralisée.**
+L'association CultureDiffusion souhaite développer une bibliothèque numérique à gestion décentralisée. Le concept est de permettre à chaque membre de numériser des œuvres, tandis que les bibliothécaires les rendent disponibles à l'emprunt selon deux modalités.
 
-**Le principe est de permettre à chaque *membre* de *numériser* les
-*œuvres* et aux *bibliothécaires* de les *proposer à l\'emprunt* selon
-deux modalités :**
+- Toutes les œuvres du domaine public sont accessibles gratuitement.
+- Les œuvres sous droits sont proposées en location pour une période de 2 semaines.
 
-**- Toutes les *œuvres du domaine public* sont *accessibles gratuitement.***
+Lorsqu'une œuvre entre dans le domaine public, elle devient accessible gratuitement et est diffusée aux membres ayant alloué suffisamment d'espace disque à l'application.
 
-**- Toutes les *œuvres sous droits* sont proposées en *location* pour une
-période de *2 semaines*.**
+Chaque membre peut emprunter ou louer une œuvre. De plus, chaque membre a la possibilité de proposer une œuvre pour enrichir la bibliothèque.
 
-Lorsqu\'une œuvre *passe dans le domaine public*, elle devient
-*accessible gratuitement* et *est diffusée aux membres* *ayant accordé*
-à *l\'application* *suffisamment d\'espace disque*.
+Chaque œuvre est constituée d'un fichier contenant l'œuvre elle-même et d'un fichier au format JSON contenant des informations sur l'œuvre.
 
-Chaque *membre* de la *bibliothèque* peut *emprunter* ou *louer* une
-*œuvre*.
+L'application bibliothèque maintient un index des œuvres, mis à jour à chaque ajout ou suppression d'une œuvre.
 
-Chaque *membre* peut *proposer* une œuvre et ainsi *enrichir* la
-*bibliothèque*.
+Les œuvres sont organisées en quatre répertoires :
 
-Chaque *œuvre* est constituée d\'un *fichier* contenant l\'œuvre et
-d\'un fichier au *format json* contenant *les informations sur
-l\'œuvre*.
+1. **fond_commun :** Contient une partie des œuvres libres de droits de l'association.
+2. **emprunts :** Stocke les œuvres sous droits empruntées par le membre, chiffrées avec sa clé.
+3. **séquestre :** Gère une partie des œuvres sous droits, tous les fichiers y sont chiffrés, et l'index n'est pas accessible directement.
+4. **à modérer :** Rassemble les œuvres proposées par les membres, en attente de modération.
 
-L\'application bibliothèque possède un *index* des œuvres qui est *mis à
-jour* à chaque *ajout* ou *suppression* d\'œuvre.
+Lorsqu'une œuvre est proposée par un membre, elle est soumise à modération. Les bibliothécaires vérifient, complètent les données et décident du statut de l'œuvre (domaine public, protégée, ou rejetée). Selon le statut, l'application range l'œuvre dans la bonne rubrique et gère les droits d'accès.
 
-L\'application possède quatre *rubriques* proposées sous forme de
-*répertoires*.
+- Si l'œuvre est dans le domaine public, elle peut être copiée par autant de membres que nécessaire.
+- Si l'œuvre est protégée, il ne peut y avoir que 3 fois plus de copies que de licences d'exploitation, et chaque œuvre est chiffrée par une clé différente ayant une date de validité.
 
-Un répertoire \"*fond\_commun*\" avec une partie des œuvres *libres de
-droits* de *l\'association*.
+À la fin de la validité d'un emprunt, l'application supprime automatiquement l'œuvre du répertoire du membre.
 
-Un répertoire \"*emprunts*\" avec les *œuvres* sous droit empruntées par
-le *membre* qui sont *chiffrées* avec sa *clé*.
+Les œuvres sont classées en plusieurs catégories et sous-catégories, telles que Livre (BD, Enfants, Romans, etc.), Musique (Classique, Jazz/Funk/Soul, Pop, Metal, etc.), et Vidéos (SF, Histoire, Série, Documentaire, etc.). Certaines œuvres peuvent appartenir à plusieurs catégories simultanément.
 
-Un *répertoire \"séquestre\"* avec une partie des *œuvres* sous *droit*
-gérée par *l\'association*, *tous les fichiers y sont chiffrés*,
-*l\'index* n\'y est pas *accessible de façon directe*.
-
-Un *répertoire \"à modérer\" *avec les *œuvres* que le *membre* a
-*proposées*.
-
-Lorsqu\'une *œuvre* est *proposée* par un membre, elle est *soumise à
-modération*.
-
-Les *bibliothécaires* *voient les œuvres soumises*, vérifient et
-complètent les *données* telles que les *auteurs*, *éditeur*, *langue*,
-*pays d\'origine*, *date de publication*, *droits*, *catégorie de
-l\'œuvre*, *format du support*, puis ils décident du *statut de
-l\'œuvre* et donc si elle est dans le domaine public ou non, ou si elle
-est *rejetée*.
-
-Selon le statut de l\'*œuvre modérée*, l\'application *range* dans la
-bonne *rubrique* et *gère* les *droits d\'accès*.
-
-Si l\'*œuvre* est dans le *domaine public* il peut y en avoir autant de
-*copie* qu\'il y a de membre.
-
-Si l\'*œuvre* est *protégée* alors il ne peut y avoir que *3 fois plus
-de copies* que de *licence d\'exploitation*, et chaque œuvre est
-*chiffrée* par une *clé différente* ayant une *date de validité*.
-
-À la *fin de la validité d\'un emprunt*, l\'application bibliothèque
-supprime automatiquement l\'œuvre du répertoire du membre.
-
-Les œuvres sont classées selon les types et sous-types suivants :
-
-Article
-
-Livre : BD - Enfants - Romans - Livre technique - Education - Loisir - Culture - Sante - etc
-
-Musique : Classique - Jazz/Funk/Soul - Pop - Metal - etc
-
-Vidéos : SF - Histoire - Série - Documentaire - etc
-
-Certaines œuvres appartiennent à plusieurs catégories en même temps.
+Le projet utilisera PlantUML pour la modélisation et le suivi des scénarios.
 
 ## Glossaire
 
