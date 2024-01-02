@@ -25,4 +25,4 @@
     
 **État Final :** L'application est installée avec succès sur le dispositif de l'utilisateur.
 
-[**Diagramme de Classe**](../Diagramme/sc1_c.jpg)
+[**Diagramme de Classe**](../Diagramme/sc1_c.jpg) - [**Diagramme de Séquence**](../Diagramme/sc1_sq.jpg) 
