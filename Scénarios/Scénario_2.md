@@ -25,3 +25,4 @@
 
 **État Final :** L'utilisateur est connecté avec succès et peut accéder aux fonctionnalités de l'application.
 
+[**Diagramme de Classe**](../Diagramme/sc2_c.jpg) - [**Diagramme de Séquence**](../Diagramme/sc2_sq.jpg) 
