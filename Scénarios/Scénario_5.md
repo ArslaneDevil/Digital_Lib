@@ -25,3 +25,4 @@
 
 **État Final :** Les droits d'auteur de l'œuvre sont mis à jour avec succès sur le serveur de l'application.
 
+[**Diagramme de Classe**](../Diagramme/sc5_c.jpg) - [**Diagramme de Séquence**](../Diagramme/sc5_sq.jpg) 
