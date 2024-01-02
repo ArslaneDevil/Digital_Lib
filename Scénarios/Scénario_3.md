@@ -25,3 +25,4 @@
 
   **État Final :** L'utilisateur a navigué avec succès dans l'application et peut accéder aux fonctionnalités de son choix.
 
+  [**Diagramme de Classe**](../Diagramme/sc3_c.jpg) - [**Diagramme de Séquence**](../Diagramme/sc3_sq.jpg) 
