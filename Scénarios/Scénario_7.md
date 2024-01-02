@@ -23,3 +23,5 @@
 
   **État Final :** Les préférences du compte utilisateur sont mises à jour avec succès sur le serveur de l'application.
  les détails associés.
+
+[**Diagramme de Classe**](../Diagramme/sc7_c.jpg) - [**Diagramme de Séquence**](../Diagramme/sc7_sq.jpg) 
