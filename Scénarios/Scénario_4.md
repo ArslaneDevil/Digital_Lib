@@ -25,3 +25,5 @@
    - Informations sur l'œuvre déposée.
 
   **État Final :** L'œuvre est déposée avec succès dans la bibliothèque publique de l'application.
+
+[**Diagramme de Classe**](../Diagramme/sc4_c.jpg) - [**Diagramme de Séquence**](../Diagramme/sc4_sq.jpg) 
