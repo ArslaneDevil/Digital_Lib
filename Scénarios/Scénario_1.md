@@ -24,3 +24,5 @@
    - Informations de l'application (nom, description, droits d'auteur).
     
 **État Final :** L'application est installée avec succès sur le dispositif de l'utilisateur.
+
+[**Diagramme de Classe**](../Diagramme/sc1_c.jpg)
