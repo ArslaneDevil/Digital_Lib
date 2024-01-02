@@ -21,3 +21,5 @@
   - Informations sur la location de l'œuvre.
 
   **État Final :** L'utilisateur a pris connaissance avec succès des conditions de location et peut maintenant rechercher une œuvre en toute connaissance de cause.
+
+[**Diagramme de Classe**](../Diagramme/sc10_c.jpg) - [**Diagramme de Séquence**](../Diagramme/sc10_sq.jpg) 
