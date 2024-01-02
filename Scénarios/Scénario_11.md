@@ -24,3 +24,4 @@
 
   **État Final :** Aucune modification n'a été apportée aux préférences du compte utilisateur, et l'application conserve les préférences existantes. 
 
+[**Diagramme de Classe**](../Diagramme/sc11_c.jpg) - [**Diagramme de Séquence**](../Diagramme/sc11_sq.jpg) 
