@@ -35,17 +35,17 @@
 
 **Décisions prises**: Identification et correction des premiers bugs, ajustements des fonctionnalités.
 
-## 7 Janvier: Feedback et Ajustements
+## 5 Janvier: Feedback et Ajustements
 **Résumé de la journée**: Collecte des retours des premiers utilisateurs testeurs.
 
 **Décisions prises**: Modifications de l'interface et amélioration de l'expérience utilisateur.
 
-## 8 Janvier: Préparation au Lancement
+## 7 Janvier: Préparation au Lancement
 **Résumé de la journée**: Finalisation des préparatifs pour le lancement de la version bêta.
 
 **Décisions prises**: Planification de la communication et de la diffusion de l'application.
 
-## Jour 10: Lancement de la Version Bêta
+## 8 Janvier: Lancement de la Version Bêta
 **Résumé de la journée**: Mise en ligne de la version bêta de l'application.
 
 **Décisions prises**: Surveillance des premiers retours d'usage et planification des mises à jour.
