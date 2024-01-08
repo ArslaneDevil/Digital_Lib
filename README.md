@@ -1,6 +1,6 @@
 # Digital Lib
 
-**Création d'une bibliothèque numérique décentralisée pour le partage d'œuvres variées.**
+**Création d'une bibliothèque numérique décentralisée pour le partage d'œuvres.**
 
 ## Description du projet
 
