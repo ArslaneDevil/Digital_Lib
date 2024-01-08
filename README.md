@@ -1,3 +1,5 @@
+![DALL·E 2024-01-08 10 42 25 - Design a modern, sleek logo for a digital library named 'Digital Lib'  The logo should feature an abstract representation of a book, with digital elem](https://github.com/ArslaneDevil/Digital_Lib/assets/114731267/b030cf21-19de-4e6e-850e-08e96fe16705)
+
 # Digital Lib
 
 **Création d'une bibliothèque numérique décentralisée pour le partage d'œuvres.**
